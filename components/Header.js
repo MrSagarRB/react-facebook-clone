@@ -7,6 +7,7 @@ import {
   ViewGridIcon,
   ChatIcon,
   ChevronDownIcon,
+
 } from "@heroicons/react/outline";
 
 
@@ -69,6 +70,8 @@ function Header() {
 
 
     {/* Profile Pic */}
+
+
 
 
 
