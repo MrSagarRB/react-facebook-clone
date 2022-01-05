@@ -4,7 +4,11 @@
 App Is Under Progress Right Now, i will complete soon.... 
 
 
-![image](https://user-images.githubusercontent.com/87903581/147882472-f8475e33-cf50-42a2-8f72-1cba431fbf32.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/87903581/148263407-884eacc0-9603-47df-85b9-bbaa7f196942.png)
 
 
 
