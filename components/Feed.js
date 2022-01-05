@@ -1,6 +1,7 @@
 import { Input } from "postcss"
 import InputBox from "./InputBox"
 import Stories from "./Stories"
+import Posts from "./Post"
 
 function Feed() {
     return (
@@ -16,6 +17,10 @@ function Feed() {
 
 
                 {/* Post */}
+
+
+          <Posts />
+
 
         </div>
     )
